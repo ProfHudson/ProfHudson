@@ -1,6 +1,6 @@
 # Seja bem vindo ao meu Perfil!
 
-Sou o Professor ***Hudson***
+Sou o Professor ***Hudson Quirino***
 
 - Estou aprendendo programação
 - Faço as aulas no site da [Alura](https://www.alura.com.br/)
